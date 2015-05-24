@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApp-ExplicitIntent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1String">Duży tekst</string>
+    <string name="btnText">Zadaj pytanie</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="answer_text">Odpowiedz</string>
+    <string name="textView1String">Duży tekst</string>
+</resources>
