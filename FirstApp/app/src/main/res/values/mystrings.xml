@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miasta">
+        <item>Lublin</item>
+        <item>Warszawa</item>
+        <item>Poznań</item>
+    </string-array>
+    <integer-array name="numerki">
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+    </integer-array>
+    <plurals name="ilosc_studentow">
+        <item quantity="zero">brak studentów</item>
+        <item quantity="one">jeden student</item>
+        <item quantity="other">%d studentów</item>
+    </plurals>
+
+</resources>
